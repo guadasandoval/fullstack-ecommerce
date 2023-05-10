@@ -14,3 +14,7 @@ Agregar las siguientes lineas:
 - una vez que esté levantado phpMyAdmin, ingresar a ecommerce-db.local y crear una bd con nombre ecommerce
 - correr el script db.sql
 - volver a correr el back
+
+# Datos de ingreso
+user: admin@ecommerce.com
+pass:123123
