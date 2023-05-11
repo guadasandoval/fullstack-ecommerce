@@ -1,4 +1,8 @@
 # fullstack-ecommerce
+Se debe hacer git clone de los tres repositorios
+- ecommerce-back
+- ecommerce-docker
+- ecommerce-front
 
 # docker
 
@@ -18,3 +22,6 @@ Agregar las siguientes lineas:
 # Datos de ingreso
 user: admin@ecommerce.com
 pass:123123
+
+## Archivo
+En la raiz del proyecto se encuentra un archivo .xlsx para realizar la prueba de carga de productos
